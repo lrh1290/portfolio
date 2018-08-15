@@ -86,6 +86,7 @@ a:active {
 
 header
 {
+  height: 100;
   width: 100%;
   background: url(https://raw.githubusercontent.com/hudsonmarinho/header-and-footer-parallax-effect/master/assets/images/bg-header.jpg) no-repeat 50% 50%;
   top: 0;
